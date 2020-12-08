@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<svg
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://web.resource.org/cc/"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    xml:space="preserve"
+    viewBox="0 0 540.502 437.897"
+    enable-background="new 0 0 540.502 437.897"
+    overflow="visible"
+  >
+		<switch
+    >
+			<foreignObject
+        y="0"
+        x="0"
+        requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/"
+        width="1"
+        height="1"
+      >
+			</foreignObject
+    >
+			<g
+      >
+				<g
+          id="&#x56FE;&#x5C42;_1"
+        >
+						<linearGradient
+            id="XMLID_2_"
+            y2="448.57"
+            gradientUnits="userSpaceOnUse"
+            y1="-70.936"
+            x2="270.25"
+            x1="270.25"
+          >
+							<stop
+              stop-color="#65CBEB"
+              offset=".0051"
+          />
+							<stop
+              stop-color="#3B88A3"
+              offset=".3924"
+          />
+							<stop
+              stop-color="#11465B"
+              offset=".8068"
+          />
+							<stop
+              stop-color="#002C3F"
+              offset="1"
+          />
+						</linearGradient
+        >
+						<path
+            d="m536.87 8.698c-31.402-29.911-167.5 26.917-167.5 26.917-45.855-17.033-88.268-19.145-98.065-19.407v-0.035s-0.435 0.005-1.063 0.018c-0.628-0.013-1.063-0.018-1.063-0.018v0.035c-9.793 0.263-52.203 2.374-98.064 19.407 0 0-136.09-56.829-167.49-26.917 0 0-25.424 20.935 58.317 145.06 0 0 7.478 164.5 44.868 218.34 0 0-35.893 65.803-11.967 65.803l44.868-1.498 7.477-49.35 112.15-2.988h21.804l112.16 2.988 7.477 49.35 44.867 1.498c23.926 0-11.967-65.803-11.967-65.803 37.391-53.839 44.869-218.34 44.869-218.34 83.73-124.13 58.31-145.06 58.31-145.06z"
+            fill="url(#XMLID_2_)"
+        />
+							<polygon
+            points="131.53 251.66 159.46 331.26 180.4 329.86 198.56 348.02 222.3 338.24 243.25 355 285.14 329.86 306.09 341.04 336.82 324.28 368.94 346.62 399.67 247.47 370.33 271.21 352.18 253.06 321.46 275.4 301.9 264.23 267 285.17 241.86 260.04 209.73 279.59 191.58 258.64 165.05 278.19"
+            fill="#231F20"
+        />
+							<path
+            d="m311.68 327.77s-46.081-30.724-89.377 6.98l20.949 16.76 41.894-25.139 20.949 11.178 11.178-4.194-5.59-5.59z"
+            fill="#BE2026"
+        />
+							<path
+            d="m276.78 236.56c1.061 1.365 3.336 1.973 6.81 1.669 3.327-0.304 6.352-1.366 9.227-3.028 4.537-4.084 5.447-7.861 2.875-11.039-2.572-2.571-6.66-2.118-12.558 1.359-5.6 4.09-7.72 7.87-6.36 11.04z"
+        />
+							<path
+            d="m254.7 236.56c1.37-3.171-0.603-6.951-6.191-11.039-5.899-3.478-10.14-3.931-12.708-1.359-2.575 3.178-1.512 6.955 2.871 11.039 2.872 1.662 5.899 2.725 9.381 3.028 3.33 0.3 5.59-0.3 6.65-1.67z"
+        />
+							<path
+            d="m373.15 87.167c-9.984-17.09-21.783-30.099-35.543-38.874-14.674-8.922-30.406-9.979-47.037-3.476-0.154 0.148-2.572 1.207-7.113 2.875-4.383 1.66-9.534 2.571-15.13 2.875-5.592-0.303-10.732-1.214-15.272-2.875l-6.958-2.875c-16.635-6.504-32.36-5.446-47.038 3.476-13.76 8.774-25.559 21.784-35.542 38.874-10.133 17.241-13.917 36.145-11.346 56.564 1.063 7.717 4.69 16.944 11.046 27.531 6.353 10.736 16.332 18.752 29.796 24.049 13.607 5.291 31.608 3.775 53.993-4.535l6.958-1.367 14.363-1.361 14.374 1.361 6.804 1.367c22.535 8.311 40.541 9.678 53.998 4.382 13.605-5.291 23.594-13.159 29.953-23.896 6.348-10.745 9.975-19.814 11.035-27.531 2.43-20.42-1.35-39.32-11.33-56.563z"
+        />
+							<path
+            d="m368.91 89.28c-9.529-16.18-20.873-28.282-34.033-36.446-14.209-8.317-29.336-9.532-45.223-3.332l-6.801 2.725c-4.237 1.512-9.077 2.415-14.527 2.572-5.439-0.157-10.279-1.06-14.513-2.572l-6.809-2.725c-15.886-6.201-31.002-4.986-45.073 3.332-13.17 8.164-24.51 20.266-34.19 36.446-9.526 16.188-13.161 33.729-10.739 52.938 0.91 7.262 4.387 15.884 10.59 25.866 6.045 9.981 15.579 17.541 28.583 22.535 13.012 4.994 30.25 3.479 51.728-4.232l6.655-1.213 13.76-1.359 13.768 1.359 6.655 1.213c21.477 7.711 38.725 9.227 51.729 4.232 13.012-4.994 22.535-12.554 28.736-22.535 6.047-9.981 9.531-18.604 10.59-25.866 2.27-19.2-1.36-36.74-10.89-52.93z"
+            fill="#fff"
+        />
+							<path
+            d="m278.47 146.2c-0.256 6.195 1.52 9.885 5.04 11.064 3.603-1.123 5.296-4.913 4.943-11.238 0.252-6.336-1.523-10.02-5.041-11.061-3.6 1.13-5.29 4.92-4.94 11.24z"
+        />
+							<path
+            d="m251.25 146.2c-0.263 6.195 1.52 9.885 5.037 11.064 3.595-1.123 5.29-4.913 4.942-11.238 0.252-6.336-1.53-10.02-5.037-11.061-3.6 1.13-5.3 4.92-4.94 11.24z"
+        />
+				</g
+      >
+			</g
+    >
+		</switch
+  >
+	<metadata
+    ><rdf:RDF
+      ><cc:Work
+        ><dc:format
+          >image/svg+xml</dc:format
+        ><dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        /><cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        /><dc:publisher
+          ><cc:Agent
+              rdf:about="http://openclipart.org/"
+            ><dc:title
+              >Openclipart</dc:title
+            ></cc:Agent
+          ></dc:publisher
+        ><dc:title
+          >Monsters Cartoon Design</dc:title
+        ><dc:date
+          >2013-08-15T04:52:02</dc:date
+        ><dc:description
+          >Monsters Cartoon Design by freevectors.me</dc:description
+        ><dc:source
+          >https://openclipart.org/detail/181823/monsters-cartoon-design-by-vectorsme-181823</dc:source
+        ><dc:creator
+          ><cc:Agent
+            ><dc:title
+              >vectorsme</dc:title
+            ></cc:Agent
+          ></dc:creator
+        ><dc:subject
+          ><rdf:Bag
+            ><rdf:li
+              >cartoon</rdf:li
+            ><rdf:li
+              >design</rdf:li
+            ><rdf:li
+              >monster</rdf:li
+            ></rdf:Bag
+          ></dc:subject
+        ></cc:Work
+      ><cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        ><cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        /><cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        /><cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        /></cc:License
+      ></rdf:RDF
+    ></metadata
+  ></svg
+>
